@@ -25,3 +25,6 @@ disable_splash=1
 # Enable 3D acceleration
 dtoverlay=vc4-fkms-v3d
 max_framebuffers=2
+
+# Remove SDcard bootdelay
+boot_delay=0
